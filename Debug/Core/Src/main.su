@@ -1,0 +1,17 @@
+../Core/Src/main.c:123:6:myprintf	16	static
+../Core/Src/main.c:138:6:LoRa_WriteReg	24	static
+../Core/Src/main.c:147:9:LoRa_ReadReg	32	static
+../Core/Src/main.c:158:6:LoRa_Reset	8	static
+../Core/Src/main.c:167:6:LoRa_SetFrequency	32	static
+../Core/Src/main.c:176:6:LoRa_Init	16	static
+../Core/Src/main.c:225:6:LoRa_StartReceive	8	static
+../Core/Src/main.c:233:6:LoRa_Send	32	static
+../Core/Src/main.c:269:9:LoRa_Receive	24	static
+../Core/Src/main.c:308:9:LoRa_GetRSSI	8	static
+../Core/Src/main.c:314:7:LoRa_GetSNR	8	static
+../Core/Src/main.c:324:5:main	48	static
+../Core/Src/main.c:417:6:SystemClock_Config	88	static
+../Core/Src/main.c:459:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:494:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:525:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:586:6:Error_Handler	4	static,ignoring_inline_asm

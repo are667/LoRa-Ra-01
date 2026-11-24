@@ -1,0 +1,17 @@
+../Core/Src/main.c:123:6:myprintf	3
+../Core/Src/main.c:138:6:LoRa_WriteReg	1
+../Core/Src/main.c:147:9:LoRa_ReadReg	1
+../Core/Src/main.c:158:6:LoRa_Reset	1
+../Core/Src/main.c:167:6:LoRa_SetFrequency	1
+../Core/Src/main.c:176:6:LoRa_Init	2
+../Core/Src/main.c:225:6:LoRa_StartReceive	1
+../Core/Src/main.c:233:6:LoRa_Send	4
+../Core/Src/main.c:269:9:LoRa_Receive	4
+../Core/Src/main.c:308:9:LoRa_GetRSSI	1
+../Core/Src/main.c:314:7:LoRa_GetSNR	1
+../Core/Src/main.c:324:5:main	8
+../Core/Src/main.c:417:6:SystemClock_Config	3
+../Core/Src/main.c:459:13:MX_SPI1_Init	2
+../Core/Src/main.c:494:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:525:13:MX_GPIO_Init	1
+../Core/Src/main.c:586:6:Error_Handler	1
